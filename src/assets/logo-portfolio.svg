@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 474.79 80.65">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Arvo-Bold, Arvo;
+        font-size: 72px;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #b91e1d;
+      }
+
+      .cls-3 {
+        fill: #656564;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(0 62.65)"><tspan class="cls-2" x="0" y="0">G</tspan><tspan class="cls-3" x="57.52" y="0">ustavo </tspan><tspan class="cls-2" x="321.33" y="0">V</tspan><tspan class="cls-3" x="375.12" y="0">ito</tspan></text>
+</svg>
