@@ -1,21 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 474.79 80.65">
-  <defs>
-    <style>
-      .cls-1 {
-        font-family: Arvo-Bold, Arvo;
-        font-size: 72px;
-        font-weight: 700;
-      }
-
-      .cls-2 {
-        fill: #b91e1d;
-      }
-
-      .cls-3 {
-        fill: #656564;
-      }
-    </style>
-  </defs>
-  <text class="cls-1" transform="translate(0 62.65)"><tspan class="cls-2" x="0" y="0">G</tspan><tspan class="cls-3" x="57.52" y="0">ustavo </tspan><tspan class="cls-2" x="321.33" y="0">V</tspan><tspan class="cls-3" x="375.12" y="0">ito</tspan></text>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 388 80.7" style="enable-background:new 0 0 388 80.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#646464;}
+	.st1{font-family:'Arvo';}
+	.st2{font-size:60px;}
+</style>
+<text transform="matrix(1 0 0 1 7.1094 63)" class="st0 st1 st2">Gustavo Vito</text>
 </svg>
